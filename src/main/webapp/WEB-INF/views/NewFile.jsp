@@ -7,9 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-
-
-hi hello
+<h3> welcome to warehouse project</h3>
 </body>
 </html>
